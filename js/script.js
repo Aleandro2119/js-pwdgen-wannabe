@@ -19,3 +19,8 @@ console.log(typeof userName);
 const userSurname = prompt('Qual è il tuo cognome?');
 console.log(userSurname);
 console.log(typeof userSurname);
+
+//COLORE
+const userColor = prompt('Qual è il tuo colore preferito??');
+console.log(userColor);
+console.log(typeof userColor);
