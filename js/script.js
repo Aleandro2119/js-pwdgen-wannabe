@@ -27,3 +27,6 @@ console.log(typeof userColor);
 
 //RECUPERO ELEMENTO
 const resultElement = document.getElementById('result');
+
+//PASSWORD
+resultElement.innerText = 'La tua password è ' + userName + userSurname + userColor + '21';
