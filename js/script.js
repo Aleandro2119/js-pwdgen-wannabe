@@ -10,5 +10,8 @@ console.log('JS OK')
 5-Genero la password sulla pagina
 */
 
-
+//NOME
+const userName = prompt('Qual è il tuo nome?');
+console.log(userName);
+console.log(typeof userName);
 
