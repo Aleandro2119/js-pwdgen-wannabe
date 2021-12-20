@@ -15,3 +15,7 @@ const userName = prompt('Qual è il tuo nome?');
 console.log(userName);
 console.log(typeof userName);
 
+//COGNOME
+const userSurname = prompt('Qual è il tuo cognome?');
+console.log(userSurname);
+console.log(typeof userSurname);
