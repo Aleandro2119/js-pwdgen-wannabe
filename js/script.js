@@ -21,6 +21,9 @@ console.log(userSurname);
 console.log(typeof userSurname);
 
 //COLORE
-const userColor = prompt('Qual è il tuo colore preferito??');
+const userColor = prompt('Qual è il tuo colore preferito?');
 console.log(userColor);
 console.log(typeof userColor);
+
+//RECUPERO ELEMENTO
+const resultElement = document.getElementById('result');
